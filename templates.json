@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "nexus-template-python",
+    "name": "Python CLI Pro",
+    "description": "Standardized starting point for Python CLI tools with Ruff, Pytest, and Pydantic.",
+    "url": "https://github.com/stillsystems/nexus-template-python",
+    "language": "Python",
+    "tags": ["cli", "professional", "linted"]
+  },
+  {
+    "id": "nexus-template-go",
+    "name": "Go Microservice",
+    "description": "High-performance microservice template with gRPC and clean architecture.",
+    "url": "https://github.com/stillsystems/nexus-template-go",
+    "language": "Go",
+    "tags": ["microservice", "grpc", "performance"]
+  }
+]
